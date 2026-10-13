@@ -1,0 +1,101 @@
+pass_id,sale_date,pass_type,sale_amount,sales_channel
+P0001,2025-11-21,Season Pass,299,Retail Partner
+P0002,2025-10-06,Season Pass,499,Online
+P0003,2025-12-04,Season Pass,299,Retail Partner
+P0004,2025-10-25,Season Pass,299,Online
+P0005,2025-09-28,Season Pass,299,Retail Partner
+P0006,2025-09-26,Day Pass,999,Online
+P0007,2025-10-28,Day Pass,799,Online
+P0008,2025-12-07,Season Pass,999,Resort
+P0009,2025-10-06,Season Pass,499,Resort
+P0010,2025-09-14,Season Pass,999,Online
+P0011,2025-10-16,Midweek Pass,799,Online
+P0012,2025-12-03,Midweek Pass,299,Resort
+P0013,2025-09-11,Day Pass,799,Retail Partner
+P0014,2025-11-19,Midweek Pass,499,Retail Partner
+P0015,2025-09-09,Season Pass,499,Resort
+P0016,2025-09-11,Season Pass,299,Resort
+P0017,2025-10-06,Midweek Pass,799,Online
+P0018,2025-10-18,Midweek Pass,499,Retail Partner
+P0019,2025-10-05,Day Pass,299,Retail Partner
+P0020,2025-11-21,Season Pass,499,Online
+P0021,2025-10-30,Midweek Pass,799,Retail Partner
+P0022,2025-11-28,Day Pass,499,Retail Partner
+P0023,2025-10-12,Season Pass,499,Online
+P0024,2025-12-13,Midweek Pass,999,Resort
+P0025,2025-09-09,Season Pass,799,Online
+P0026,2025-11-23,Midweek Pass,999,Retail Partner
+P0027,2025-10-29,Season Pass,799,Online
+P0028,2025-10-02,Day Pass,799,Retail Partner
+P0029,2025-11-14,Midweek Pass,999,Resort
+P0030,2025-09-29,Season Pass,999,Online
+P0031,2025-12-06,Season Pass,299,Online
+P0032,2025-11-20,Season Pass,999,Retail Partner
+P0033,2025-09-09,Midweek Pass,999,Retail Partner
+P0034,2025-10-30,Day Pass,799,Retail Partner
+P0035,2025-12-20,Season Pass,299,Retail Partner
+P0036,2025-12-23,Day Pass,799,Retail Partner
+P0037,2025-10-14,Season Pass,799,Resort
+P0038,2025-09-21,Midweek Pass,299,Retail Partner
+P0039,2025-12-22,Day Pass,799,Retail Partner
+P0040,2025-12-07,Season Pass,299,Retail Partner
+P0041,2025-10-09,Day Pass,499,Online
+P0042,2025-10-18,Season Pass,299,Retail Partner
+P0043,2025-10-12,Midweek Pass,299,Online
+P0044,2025-12-28,Midweek Pass,799,Online
+P0045,2025-09-08,Season Pass,299,Online
+P0046,2025-12-03,Midweek Pass,299,Retail Partner
+P0047,2025-12-08,Season Pass,499,Retail Partner
+P0048,2025-10-31,Day Pass,499,Resort
+P0049,2025-11-07,Day Pass,999,Online
+P0050,2025-12-28,Day Pass,499,Retail Partner
+P0051,2025-10-10,Midweek Pass,799,Resort
+P0052,2025-12-25,Day Pass,999,Online
+P0053,2025-10-02,Season Pass,299,Resort
+P0054,2025-09-03,Day Pass,499,Retail Partner
+P0055,2025-09-29,Season Pass,299,Retail Partner
+P0056,2025-11-20,Season Pass,499,Online
+P0057,2025-12-25,Season Pass,799,Online
+P0058,2025-11-05,Season Pass,799,Retail Partner
+P0059,2025-11-02,Season Pass,499,Retail Partner
+P0060,2025-12-29,Day Pass,999,Online
+P0061,2025-12-10,Midweek Pass,999,Online
+P0062,2025-09-13,Season Pass,999,Resort
+P0063,2025-10-25,Midweek Pass,999,Retail Partner
+P0064,2025-09-07,Day Pass,299,Online
+P0065,2025-10-22,Day Pass,799,Online
+P0066,2025-10-02,Season Pass,499,Retail Partner
+P0067,2025-10-28,Season Pass,999,Online
+P0068,2025-10-06,Midweek Pass,499,Online
+P0069,2025-10-27,Day Pass,299,Online
+P0070,2025-11-23,Day Pass,299,Online
+P0071,2025-12-28,Season Pass,499,Resort
+P0072,2025-11-02,Midweek Pass,499,Resort
+P0073,2025-12-25,Season Pass,499,Resort
+P0074,2025-09-01,Midweek Pass,799,Resort
+P0075,2025-10-07,Midweek Pass,999,Online
+P0076,2025-09-25,Midweek Pass,499,Online
+P0077,2025-11-14,Day Pass,299,Retail Partner
+P0078,2025-10-11,Season Pass,299,Retail Partner
+P0079,2025-11-01,Day Pass,499,Online
+P0080,2025-11-05,Season Pass,499,Online
+P0081,2025-11-16,Season Pass,499,Resort
+P0082,2025-09-16,Day Pass,499,Retail Partner
+P0083,2025-11-16,Season Pass,299,Resort
+P0084,2025-11-24,Day Pass,799,Resort
+P0085,2025-09-27,Day Pass,799,Online
+P0086,2025-10-04,Midweek Pass,499,Retail Partner
+P0087,2025-11-22,Midweek Pass,999,Resort
+P0088,2025-12-28,Season Pass,299,Resort
+P0089,2025-11-19,Day Pass,299,Online
+P0090,2025-11-08,Season Pass,799,Online
+P0091,2025-12-29,Midweek Pass,299,Online
+P0092,2025-10-18,Midweek Pass,499,Resort
+P0093,2025-12-16,Day Pass,799,Retail Partner
+P0094,2025-12-13,Day Pass,299,Retail Partner
+P0095,2025-12-14,Day Pass,799,Retail Partner
+P0096,2025-09-14,Season Pass,799,Online
+P0097,2025-12-23,Season Pass,499,Resort
+P0098,2025-10-07,Day Pass,499,Retail Partner
+P0099,2025-10-14,Season Pass,799,Retail Partner
+P0100,2025-11-02,Midweek Pass,299,Online
